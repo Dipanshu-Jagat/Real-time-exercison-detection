@@ -23,3 +23,6 @@ Here we use mediapipe to calculate the angle between our joints and to perform t
 
 ## Push up counter
 
+![image](https://github.com/Dipanshu-Jagat/Real-time-exercison-detection/assets/86709644/740f945f-474c-41f9-adc6-203b93c53504)
+
+
