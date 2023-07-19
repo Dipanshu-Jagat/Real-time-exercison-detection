@@ -4,7 +4,7 @@
 
 We propose a system that is capable detecting exercise in real time 
 
-### Bicep Curl Counter
+## Bicep Curl Counter
 
 A bicep curl counter is designed to track and count the number of bicep curls performed during a workout. It is commonly used by individuals engaged in strength training or fitness routines to monitor their exercise progress and ensure consistent and effective training sessions.
 
@@ -20,4 +20,6 @@ Here we use mediapipe to calculate the angle between our joints and to perform t
 ### Down position
 
 ![Screenshot (607)](https://github.com/Dipanshu-Jagat/Real-time-exercison-detection/assets/86709644/7a9bb041-4440-421c-bb54-d50c60e90480)
+
+## Push up counter
 
