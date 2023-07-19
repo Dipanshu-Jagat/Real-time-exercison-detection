@@ -1,1 +1,1 @@
-# Real-time-exercison-detection
+# Real-time-exercison-detection using Mediapipe
