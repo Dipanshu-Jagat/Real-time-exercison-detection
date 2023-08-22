@@ -33,5 +33,9 @@ As the user performs a push-up, the Mediapipe-based counter will detect the down
 
 ![image](https://github.com/Dipanshu-Jagat/Real-time-exercison-detection/assets/86709644/aa6afebe-7285-4254-8f95-41d3f2d9ce51)
 
+## Videos :-
+
+
+
 
 
